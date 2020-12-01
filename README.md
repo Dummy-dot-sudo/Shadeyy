@@ -7,7 +7,7 @@
 
 **Stats:**  
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mananhussin&theme=dracula&count_private=true"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dummy-dot-sudo&theme=dracula&count_private=true"></div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mananhussin&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananhussin&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dummy-dot-sudo&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dummy-dot-sudo&theme=tokyonight&hide=batchfile">
 
